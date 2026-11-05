@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Piyush Pancholi | Data and AI Engineer</title>
+  <desc id="description">An ivory and charcoal banner with lime accents. Turning data into what's next. A pipeline connects raw data, trusted foundations, and intelligent outcomes.</desc>
+  <defs>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.8" fill="#cbd3bf"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="18"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="#f8f9f5"/>
+    <rect x="765" width="435" height="360" fill="#edf0e7"/>
+    <rect x="765" width="435" height="360" fill="url(#dots)"/>
+    <circle cx="1010" cy="180" r="160" fill="none" stroke="#d7ddce"/>
+    <circle cx="1010" cy="180" r="220" fill="none" stroke="#d7ddce"/>
+    <path d="M765 0v360" stroke="#dce0d5"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <circle cx="59" cy="53" r="4" fill="#779344"/>
+      <text x="74" y="57" font-size="11" font-weight="600" letter-spacing="2" fill="#536144">DATA &amp; AI ENGINEER</text>
+      <text x="54" y="128" font-size="57" font-weight="600" letter-spacing="-2.5" fill="#21251f">Piyush Pancholi</text>
+      <text x="56" y="184" font-family="Georgia, serif" font-style="italic" font-size="34" fill="#647452">Turning data into what's next.</text>
+      <text x="57" y="222" font-size="14" fill="#63695f">Reliable data. Thoughtful engineering. Intelligent outcomes.</text>
+      <rect x="56" y="263" width="139" height="30" rx="5" fill="#21251f"/>
+      <text x="125.5" y="282" text-anchor="middle" font-size="10" letter-spacing=".6" fill="#d4ef82">MICROSOFT FABRIC</text>
+      <rect x="205" y="263" width="76" height="30" rx="5" fill="#e8eddf"/>
+      <text x="243" y="282" text-anchor="middle" font-size="10" letter-spacing=".6" fill="#3c4832">AZURE</text>
+      <rect x="291" y="263" width="88" height="30" rx="5" fill="#e8eddf"/>
+      <text x="335" y="282" text-anchor="middle" font-size="10" letter-spacing=".6" fill="#3c4832">PYSPARK</text>
+      <rect x="389" y="263" width="105" height="30" rx="5" fill="#e8eddf"/>
+      <text x="441.5" y="282" text-anchor="middle" font-size="10" letter-spacing=".6" fill="#3c4832">AGENTIC AI</text>
+      <text x="56" y="333" font-size="10" fill="#63695f" letter-spacing=".8">DATA PLATFORMS / ANALYTICS / INTELLIGENCE</text>
+      <text x="800" y="35" font-size="8" fill="#63695f" letter-spacing="1.4">THE DATA-TO-IMPACT STACK</text>
+      <path d="M838 125v31m0 62v31" stroke="#96a880" stroke-dasharray="3 3"/>
+      <rect x="800" y="63" width="350" height="62" rx="8" fill="#fbfcf8" stroke="#d3dac8"/>
+      <text x="820" y="101" font-size="21" fill="#819469">01</text>
+      <text x="866" y="88" font-size="8" fill="#6b7561" letter-spacing="1.5">INGEST</text>
+      <text x="866" y="108" font-size="15" font-weight="600" fill="#21251f">Raw potential</text>
+      <circle cx="1128" cy="94" r="3" fill="#91a66d"/>
+      <rect x="800" y="156" width="350" height="62" rx="8" fill="#fbfcf8" stroke="#d3dac8"/>
+      <text x="820" y="194" font-size="21" fill="#819469">02</text>
+      <text x="866" y="181" font-size="8" fill="#6b7561" letter-spacing="1.5">ENGINEER</text>
+      <text x="866" y="201" font-size="15" font-weight="600" fill="#21251f">Trusted foundations</text>
+      <circle cx="1128" cy="187" r="3" fill="#91a66d"/>
+      <rect x="800" y="249" width="350" height="62" rx="8" fill="#21251f"/>
+      <text x="820" y="287" font-size="21" fill="#d4ef82">03</text>
+      <text x="866" y="274" font-size="8" fill="#d4ef82" letter-spacing="1.5">ACTIVATE</text>
+      <text x="866" y="294" font-size="15" font-weight="600" fill="#f8f9f5">Intelligent outcomes</text>
+      <path d="M1120 287l13-13m-11 0h11v11" fill="none" stroke="#d4ef82" stroke-width="1.5"/>
+      <circle cx="803" cy="335" r="2.5" fill="#779344"/>
+      <text x="813" y="338" font-size="7" letter-spacing="1" fill="#63695f">BUILT FOR IMPACT</text>
+    </g>
+  </g>
+</svg>
